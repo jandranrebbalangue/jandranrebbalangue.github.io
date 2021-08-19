@@ -1,1 +1,1 @@
-# my website
+# just sample website
